@@ -2,7 +2,8 @@
 #define MAIN_H
 
 #include <stdio.h>
-#include "router.h"
-#include "list.h"
+#include <stdlib.h>
+#include "router.c"
+#include "list.c"
 
 #endif // MAIN_H
